@@ -1,0 +1,8 @@
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.18;
+
+contract basicSyntax {
+    uint Day: 1;                // uint is a data type, we will cover it in next file.
+}
+
+// This is a basic syntax of Solidity.
